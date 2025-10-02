@@ -15,6 +15,7 @@ where
   not country = 'UK'
   and country = 'USA';
 
+-- Scalar Functions (upper, lower, concat, length)
 -- apply upper function 
 SELECT
   upper(first_name)
