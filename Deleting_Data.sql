@@ -1,0 +1,1 @@
+delete from students where course = 'Arts' and grade = 'C';
